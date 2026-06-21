@@ -1,0 +1,2 @@
+B001|Java Fundamentals|James Gosling|true|null|null|null
+B002|Data structures & Algorithms|Mark Allen|true|null|null|null
